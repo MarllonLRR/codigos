@@ -5,7 +5,7 @@
 
 # Função que percorre a minha diagonal principal 
 # e verifica se a minha linha e minha coluna contem apenas UM elemento 1
-def check_premisses(matrix, dimension):
+def check_premises(matrix, dimension):
 	result = True
 
 	# Percorro a minha minha diagonal principal da minha matriz para verifica se em cada
@@ -46,7 +46,7 @@ for i in range(entry):
 	line = [ int(x) for x in input().split() ]
 	matrix.append(line)
 
-if(check_premisses(matrix, entry)):
+if(check_premises(matrix, entry)):
 	print("É uma matriz de permutação")
 else:
 	print("Não é uma matriz de permutação")

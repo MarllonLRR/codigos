@@ -24,7 +24,7 @@ def transposed(matrix, dimension):
 	tranposed_matrix = create_matrix_zeros(dimension)
 	# Usando a definição para determinar o tamanho da nova matriz
 	new_dimension = (dimension[1], dimension[0])
-	
+
 	for i in range(dimension[0]):
 		for j in range(dimension[1]):
 			tranposed_matrix[j][i] = matrix[i][j]
@@ -36,7 +36,7 @@ def transposed(matrix, dimension):
 entry = [int(i) for i in input().split()]
 matrix = []
 
-# Para cada linha eu lei os valores das minhas colunas
+# Para cada linha eu leio os valores das minhas colunas
 for i in range(entry[0]):
 	line = [ int(x) for x in input().split() ]
 	matrix.append(line)

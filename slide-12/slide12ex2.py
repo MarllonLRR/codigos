@@ -19,24 +19,18 @@ def check_premises(matrix, dimension):
 # Função que faz a verificação dado um indice se a coluna e a linha daquele elemento contém
 # Apenas um unico elemento '1'
 def check(matrix, dimension, index):
-	result = False
+
 	count_col = 0
 	count_row = 0
 
 	for i in range(dimension):
-		# Verifico se na minha linha contém um valor não nulo
-		if matrix[index][i] != 0:
-			count_row += abs(matrix[index][i]) 
-		# Verifico se na minha coluna contém um valor não nulo
-		if matrix[i][index] != 0:
-			count_col += abs(matrix[i][index])
+		# Faços a soma dos valores absolutos das minhas linhas e colunas
+		count_row += abs(matrix[index][i]) 
+		count_col += abs(matrix[i][index])
 
-	# Verifico se os meus contadores estão com os valores '1'
-	if (count_col == count_row) and (count_col == 1):
-		result = True
-
-	return result
-
+	# Verifico se os meus contadores estão com os valores iguais a '1'
+	return (count_col == count_row) and (count_col == 1)
+		
 # Leio a dimenção da minha matriz
 entry = int(input())
 matrix = []

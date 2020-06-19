@@ -1,0 +1,244 @@
+Case 1: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.94
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+Cade o #sol?
+#dia 1
+#capimae 1
+#choveu 1
+#sol 3
+Cade o #sol?
+Preciso de #sol...
+Nao faz #Sol ha uma semana
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+Cade o #sol?
+#dia 1
+#capimae 1
+#choveu 1
+#sol 3
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 2: 
+
+Nota maxima: 1.25
+Nota Obtida: 1.02
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#chuva 1
+#olimpiadas 1
+#chuva 4
+#olimpiadas 2
+#triste 1
+#facom 1
+#grama 1
+Sempre que a #chuva cai eu fico molhado.
+Essa #chuva nao para.
+Adoro #CHUVA!!!
+E da-lhe #chuva fria :-\
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#chuva 1
+#olimpiadas 1
+#chuva 4
+#olimpiadas 2
+#triste 1
+#facom 1
+#grama 1
+Sempre que a #chuva cai eu fico molhado.
+Essa #chuva nao para.
+E da-lhe #chuva fria :-\
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 3: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#frasea 1
+#fraseb 1
+#frasecx 1
+uma #frasecX
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+uma #frasecX
+#frasea 1
+#fraseb 1
+#frasecx 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 4: 
+
+Nota maxima: 1.25
+Nota Obtida: 1.13
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+hashtag #aa
+hashtag #ag #aa
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+hashtag #by
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+hashtag #aa
+hashtag #ag #aa
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+hashtag #by
+hashtag #av
+hashtag #ay #AV
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 6: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#teste
+#teste 3
+#etset 2
+#frase 1
+#testes 1
+#teste
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+#teste
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#teste 5
+#etset 3
+#frase 1
+#testes 1
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#teste 3
+#etset 2
+#frase 1
+#testes 1
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#teste 5
+#etset 3
+#frase 1
+#testes 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+

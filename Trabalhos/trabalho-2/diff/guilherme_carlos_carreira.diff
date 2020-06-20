@@ -1,0 +1,1083 @@
+Case 1: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.73
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+Cade o #sol?
+#dia 1
+#capimae 1
+#choveu 1
+#sol 3
+Cade o #sol?
+Preciso de #sol...
+Nao faz #Sol ha uma semana
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+cade o #sol?
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+cade o #sol?
+preciso de #sol...
+nao faz #sol ha uma semana
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 2: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#chuva 1
+#olimpiadas 1
+#chuva 4
+#olimpiadas 2
+#triste 1
+#facom 1
+#grama 1
+Sempre que a #chuva cai eu fico molhado.
+Essa #chuva nao para.
+Adoro #CHUVA!!!
+E da-lhe #chuva fria :-\
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+sempre que a #chuva cai eu fico molhado.
+essa #chuva nao para.
+adoro #chuva!!!
+e da-lhe #chuva fria :-\
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 3: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#frasea 1
+#fraseb 1
+#frasecx 1
+uma #frasecX
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+uma #frasecx
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+uma #frasecx
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 4: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.04
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+hashtag #aa
+hashtag #ag #aa
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+hashtag #by
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+hashtag #av
+hashtag #ay #AV
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+hashtag #aa
+hashtag #ag #aa
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+hashtag #by
+hashtag #av
+hashtag #ay #av
+hashtag #av
+hashtag #ay #av
+hashtag #av
+hashtag #ay #av
+hashtag #av
+hashtag #ay #av
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 5: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#askwd 14
+#computersc 10
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 6: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.06
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#teste
+#teste 3
+#etset 2
+#frase 1
+#testes 1
+#teste
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+#teste
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+outra #frase\/?|! #TESTE@#$%*(), #etset_-¨
+#teste 5
+#etset 3
+#frase 1
+#testes 1
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#teste
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#teste 3
+#etset 2
+#frase 1
+#testes 1
+#teste
+outra #frase\/?|! #teste@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+#teste
+outra #frase\/?|! #teste@#$%*(), #etset_-¨
+#testes #teste
+#teste...
+#etset012 #teste+-'"[]{},.;:
+uma #frasea 
+uma #fraseb.
+uma #frasecx
+outra #frase\/?|! #teste@#$%*(), #etset_-¨
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#teste 4
+#etset 2
+#frase 1
+#testes 1
+#teste 1
+#etset 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 7: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.0
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#palavra 1
+#askwd 13
+#computersc 10
+#outra 1
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#teste 4
+#etset 2
+#frase 1
+#testes 1
+#teste 1
+#etset 1
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#teste 4
+#etset 2
+#frase 1
+#testes 1
+#teste 1
+#etset 1
+#palavra 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#madeaskwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#outra 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Case 8: 
+
+Nota maxima: 1.25
+Nota Obtida: 0.03
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SOLUÇÃO @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Neural Sweet Talk  #science 
+Obesity before pregnancy linked to earliest preterm births, Stanford/Packard study finds #science
+Staying up-to-date on #science is tough. We built Author Insights to help. Check it out & let us know what you think! 
+All these shapes are made with DNA #science
+I refuse to click any article that will "blow my mind." You idiots, I need my mind for #science .
+#science: how to read and understand a scientific paper  via @HuffPostScience
+Last chance to WIN a special edition Alan Turing Monopoly set, as played by Turing @bletchleypark Just answer our #turing question...
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. Alan #turing
+MT @sciencemuseum: Alan #turing - born 102 years ago - codebreaker, mathematician & one of our most original thinkers 
+Please raise your tea to Alan #turing and celebrate his birthday b1912 and his genius.
+You can also find out more about turing and his work in these Plus articles: #turing
+Alan Turing would have turned 102 today! This great video featuring @jamesgrime tells Turing's story #turing
+It is the birthday of Alan #turing b1912, "genius of computing" via @HistoryNeedsYou. Be nice to someone different.
+Good morning. Happy birthday to Alan #turing b1912, the great founding genius of computing
+Feliz aniversrio de 102 anos, Alan #turing!
+Very pretty & enigmatic card come from Hong Kong for Alan #turing's 102nd birthday - will they win promised prize?
+#turing hurdle cleared? what next? Talking To Robots: 'Artificial Intelligence Is Possible' via @RFERL
+@davidboyle1958 Congrats on Turing making the Top 100 - #turing
+What was the name of Alan Turings teddy bear, that he used to practice speeches on at @bletchleypark? #turing
+Pagina Isa, the panda Autor mesmo da pagina - Done #math ficou daora :3 
+You = 1 / 7,000,000,000 #math
+Para que te dei trela este ano inteiro , agora no me largas #math
+Preciso de paz p recomear denovo.. #math
+#math com um Prof Novo... Enfim... Veremos no que qur vai dar...
+Ignorando quem me ignora , hahaha adoooro #math
+Vocs querem game ? #math | 1Direction Forever | Zayn Indelicado
+Se eu fizer um Plug.DJ vocs vo? :pp #math
+Parents, teachers and students, check out 3D #math exploration video game Mathbreakers & back their kickstarter
+S mitos u-u #math 
+to linda *-* #math 
+    Parents: Looking for some tips to add #math to your kids' day? Follow us on Pinterest for a few math-cellent ideas! 
+    Apparently we're all cutting cake the wrong way according to #math. NOOOOOOOOOOOOOOOOOOOO! 
+Rob McDougall @usceduau on @612brisbane about #math, why it's unpopular, how it helps us to think about our world 
+    I never fill out the "tip" section. Just what the total is after the tip. So I'm gonna start doing this. Haha #math
+    Fun World Cup math - a soccer ball modeled as a truncated icosahedron using our @Zometool set. #math
+#turing 13
+#saperecondiviso 1
+#math 16
+#science 6
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBTIDO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+neural sweet talk  #science 
+obesity before pregnancy linked to earliest preterm births, stanford/packard study finds #science
+staying up-to-date on #science is tough. we built author insights to help. check it out & let us know what you think! 
+all these shapes are made with dna #science
+i refuse to click any article that will "blow my mind." you idiots, i need my mind for #science .
+#science: how to read and understand a scientific paper  via @huffpostscience
+last chance to win a special edition alan turing monopoly set, as played by turing @bletchleypark just answer our #turing question...
+a man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. alan #turing
+mt @sciencemuseum: alan #turing - born 102 years ago - codebreaker, mathematician & one of our most original thinkers 
+please raise your tea to alan #turing and celebrate his birthday b1912 and his genius.
+you can also find out more about turing and his work in these plus articles: #turing
+alan turing would have turned 102 today! this great video featuring @jamesgrime tells turing's story #turing
+it is the birthday of alan #turing b1912, "genius of computing" via @historyneedsyou. be nice to someone different.
+good morning. happy birthday to alan #turing b1912, the great founding genius of computing
+feliz aniversrio de 102 anos, alan #turing!
+very pretty & enigmatic card come from hong kong for alan #turing's 102nd birthday - will they win promised prize?
+#turing hurdle cleared? what next? talking to robots: 'artificial intelligence is possible' via @rferl
+@davidboyle1958 congrats on turing making the top 100 - #turing
+what was the name of alan turings teddy bear, that he used to practice speeches on at @bletchleypark? #turing
+pagina isa, the panda autor mesmo da pagina - done #math ficou daora :3 
+you = 1 / 7,000,000,000 #math
+para que te dei trela este ano inteiro , agora no me largas #math
+preciso de paz p recomear denovo.. #math
+#math com um prof novo... enfim... veremos no que qur vai dar...
+ignorando quem me ignora , hahaha adoooro #math
+vocs querem game ? #math | 1direction forever | zayn indelicado
+se eu fizer um plug.dj vocs vo? :pp #math
+parents, teachers and students, check out 3d #math exploration video game mathbreakers & back their kickstarter
+s mitos u-u #math 
+to linda *-* #math 
+    parents: looking for some tips to add #math to your kids' day? follow us on pinterest for a few math-cellent ideas! 
+    apparently we're all cutting cake the wrong way according to #math. noooooooooooooooooooo! 
+rob mcdougall @usceduau on @612brisbane about #math, why it's unpopular, how it helps us to think about our world 
+    i never fill out the "tip" section. just what the total is after the tip. so i'm gonna start doing this. haha #math
+    fun world cup math - a soccer ball modeled as a truncated icosahedron using our @zometool set. #math
+#dia 1
+#capimae 1
+#choveu 1
+#sol 1
+#sol 1
+#sol 1
+#chuva 1
+#olimpiadas 1
+#triste 1
+#olimpiadas 1
+#chuva 1
+#chuva 1
+#facom 1
+#chuva 1
+#grama 1
+#frasea 1
+#fraseb 1
+#frasecx 1
+#aa 2
+#ab 1
+#ac 1
+#ad 2
+#ae 1
+#af 1
+#ag 1
+#ah 1
+#ai 1
+#aj 1
+#ak 1
+#al 1
+#am 1
+#an 1
+#ao 1
+#ap 1
+#aq 1
+#ar 1
+#as 1
+#at 1
+#au 1
+#av 2
+#aw 1
+#ax 1
+#ay 1
+#ba 8
+#bb 1
+#bc 1
+#bd 1
+#be 1
+#bf 1
+#bg 1
+#bh 1
+#bi 1
+#bj 1
+#bk 1
+#bl 1
+#bm 1
+#bn 1
+#bo 1
+#bp 1
+#bq 1
+#br 1
+#bs 1
+#bt 1
+#bu 1
+#bv 1
+#bw 1
+#bx 1
+#by 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#teste 4
+#etset 2
+#frase 1
+#testes 1
+#teste 1
+#etset 1
+#palavra 1
+#askwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#madeaskwd 1
+#askwd 1
+#askwd 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#askwd 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#computersc 1
+#computersc 1
+#askwd 1
+#computersc 1
+#askwd 1
+#outra 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turing 1
+#turings 1
+#saperecondiviso 1
+#turing 1
+#turing 1
+#turing 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#math 1
+#science 1
+#science 1
+#science 1
+#science 1
+#science 1
+#science 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
